@@ -1,5 +1,5 @@
 box:
-  id:openjdk
+  id: openjdk
   ports:
     - 8000
 build:
